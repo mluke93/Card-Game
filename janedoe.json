@@ -1,0 +1,298 @@
+{
+  "npi": 0,
+  "linkUrl": "/jane-r-doe-md-interventional-cardiology-0",
+  "biography": "Dr. Doe attended the University of Virginia for her undergraduate degree. She received her medical degree from Harvard Medical School and completed a fellowship in Dermatology with the Georgetown University School Of Medicine.",
+  "title": "",
+  "thumbnailUrl": "https://s3.amazonaws.com/imconnectdemodoctor/images/GettyImages-178781282.jpg",
+  "imageUrl": "https://s3.amazonaws.com/imconnectdemodoctor/images/GettyImages-178781282.jpg",
+  "clinicalExpertise": [
+    "Cardiac Rehabilitation",
+    "Nuclear Cardiology"
+  ],
+  "education": [
+    {
+      "type": "Medical Education",
+      "year": "2002-2006",
+      "location": "George Washington University school of Medicine",
+      "specialty": "Cardiology"
+    },
+    {
+      "type": "Residency",
+      "year": "2006-2007",
+      "location": "Massachusetts General Hospital",
+      "specialty": "Cardiology"
+    },
+    {
+      "type": "Residency",
+      "year": "2007-2009",
+      "location": "Hospital of the University of Pennsylvania",
+      "specialty": "Electrophysiology"
+    },
+    {
+      "type": "Undergraduate",
+      "year": "1998-2002",
+      "location": "Saint Bonaventure University",
+      "specialty": ""
+    }
+  ],
+  "email": "jdoe@gmail.com",
+  "gender": "Female",
+  "insurance": [
+    {
+      "id": "545",
+      "displayName": "Humana PPO",
+      "company": "Humana",
+      "plan": "",
+      "product": "Humana PPO"
+    },
+    {
+      "id": "578",
+      "displayName": "United Healthcare PPO",
+      "company": "UnitedHealthCare",
+      "plan": "",
+      "product": "United Healthcare PPO"
+    },
+    {
+      "id": "791",
+      "displayName": "Choice",
+      "company": "Humana",
+      "plan": "",
+      "product": "Choice"
+    },
+    {
+      "id": "860",
+      "displayName": "Behavioral Health",
+      "company": "Cigna",
+      "plan": "",
+      "product": "Behavioral Health"
+    },
+    {
+      "id": "275",
+      "displayName": "Health Fund",
+      "company": "Aetna",
+      "plan": "",
+      "product": "Health Fund"
+    },
+    {
+      "id": "117",
+      "displayName": "Health Fund PPO",
+      "company": "Aetna",
+      "plan": "",
+      "product": "Health Fund PPO"
+    },
+    {
+      "id": "276",
+      "displayName": "HealthFund - Flexible Spending Account POS",
+      "company": "Aetna",
+      "plan": "",
+      "product": "HealthFund - Flexible Spending Account POS"
+    },
+    {
+      "id": "424",
+      "displayName": "Cigna HMO",
+      "company": "Cigna",
+      "plan": "",
+      "product": "Cigna HMO"
+    },
+    {
+      "id": "137",
+      "displayName": "Cigna Network",
+      "company": "Cigna",
+      "plan": "",
+      "product": "Cigna Network"
+    },
+    {
+      "id": "421",
+      "displayName": "HealthPlus HMO",
+      "company": "HealthPlus",
+      "plan": "",
+      "product": "HealthPlus HMO"
+    },
+    {
+      "id": "562",
+      "displayName": "HealthPlus PPO",
+      "company": "HealthPlus",
+      "plan": "",
+      "product": "HealthPlus PPO"
+    },
+    {
+      "id": "357",
+      "displayName": "UPMC PPO",
+      "company": "UPMC",
+      "plan": "",
+      "product": "UPMC PPO"
+    }
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "hospitals": [],
+  "locations": [
+    {
+      "id": "5386514",
+      "name": "",
+      "isPrimary": false,
+      "phone": "716-648-2770",
+      "fax": "716-648-1552",
+      "practiceName": "",
+      "address1": "17 Long Ave Ste 402",
+      "address2": "",
+      "city": "Hamburg",
+      "state": "NY",
+      "zipCode": "14075",
+      "linkUrl": "",
+      "coordinates": "40.1195668,-80.9185587",
+      "acceptsNewPatients": false,
+      "tags": [
+        "location-physical",
+        "location-mailing"
+      ],
+      "schedule": [
+        {
+          "start": "2017-03-23T12:30:00.000Z",
+          "end": "2017-03-23T13:00:00.000Z",
+          "openingType": "block",
+          "openings": 1,
+          "openingsTaken": 0,
+          "recurrenceException": "",
+          "recurrenceRule": "",
+          "blockInterval": 30,
+          "taskId": "0-1490111608767",
+          "recurrenceId": ""
+        },
+        {
+          "start": "2017-03-23T13:00:00.000Z",
+          "end": "2017-03-23T13:30:00.000Z",
+          "openingType": "block",
+          "openings": 1,
+          "openingsTaken": 0,
+          "recurrenceException": "",
+          "recurrenceRule": "",
+          "blockInterval": 30,
+          "taskId": "0-1490123484266",
+          "recurrenceId": ""
+        },
+        {
+          "start": "2017-03-23T13:30:00.000Z",
+          "end": "2017-03-23T14:00:00.000Z",
+          "openingType": "block",
+          "openings": 1,
+          "openingsTaken": 0,
+          "recurrenceException": "",
+          "recurrenceRule": "",
+          "blockInterval": 30,
+          "taskId": "0-1490124367928",
+          "recurrenceId": ""
+        },
+        {
+          "start": "2017-03-23T14:00:00.000Z",
+          "end": "2017-03-23T14:30:00.000Z",
+          "openingType": "block",
+          "openings": 1,
+          "openingsTaken": 0,
+          "recurrenceException": "",
+          "recurrenceRule": "",
+          "blockInterval": 30,
+          "taskId": "0-1490124551044",
+          "recurrenceId": ""
+        },
+        {
+          "start": "2017-03-28T09:00:00.000Z",
+          "end": "2017-03-28T09:30:00.000Z",
+          "openingType": "block",
+          "openings": 1,
+          "openingsTaken": 0,
+          "recurrenceException": "",
+          "recurrenceRule": "FREQ=WEEKLY;BYDAY=TU,TH;WKST=SU",
+          "blockInterval": 30,
+          "taskId": "0-1490640609451",
+          "recurrenceId": ""
+        },
+        {
+          "start": "2017-03-28T13:00:00.000Z",
+          "end": "2017-03-28T13:30:00.000Z",
+          "openingType": "block",
+          "openings": 1,
+          "openingsTaken": 0,
+          "recurrenceException": "",
+          "recurrenceRule": "FREQ=WEEKLY;BYDAY=MO,TH;WKST=SU",
+          "blockInterval": 30,
+          "taskId": "0-1490640641620",
+          "recurrenceId": ""
+        },
+        {
+          "start": "2017-03-29T14:00:00.000Z",
+          "end": "2017-03-29T16:00:00.000Z",
+          "openingType": "block",
+          "openings": 1,
+          "openingsTaken": 0,
+          "recurrenceException": "",
+          "recurrenceRule": "FREQ=WEEKLY;BYDAY=WE",
+          "blockInterval": 30,
+          "taskId": "0-1490640689957",
+          "recurrenceId": ""
+        },
+        {
+          "start": "2017-03-31T11:00:00.000Z",
+          "end": "2017-03-31T11:30:00.000Z",
+          "openingType": "block",
+          "openings": 1,
+          "openingsTaken": 0,
+          "recurrenceException": "",
+          "recurrenceRule": "FREQ=WEEKLY;BYDAY=FR",
+          "blockInterval": 30,
+          "taskId": "0-1490752022083",
+          "recurrenceId": ""
+        }
+      ]
+    }
+  ],
+  "firstName": "Jane",
+  "lastName": "Doe",
+  "middleName": "R.",
+  "namePrefix": "Dr.",
+  "nameSuffix": "",
+  "professionalTitles": [
+    "M.D."
+  ],
+  "fullName": "Dr. Jane R. Doe",
+  "dateOfBirth": "1966",
+  "ratingsPercent": "90",
+  "phone": "716-409-7334",
+  "fax": "716-975-4555",
+  "specialties": [
+    {
+      "name": "Interventional Cardiology",
+      "isPrimary": true,
+      "isBoardCertified": true,
+      "boardName": "",
+      "certificationYear": "2006",
+      "subSpecialties": [],
+      "copyrightText": ""
+    },
+    {
+      "name": "Electrophysiology",
+      "isPrimary": false,
+      "isBoardCertified": true,
+      "boardName": "",
+      "certificationYear": "2008",
+      "subSpecialties": [],
+      "copyrightText": ""
+    }
+  ],
+  "tags": [],
+  "videos": [],
+  "sources": [],
+  "blackoutDates": [
+    {
+      "date": "2/16/2017"
+    },
+    {
+      "date": "3/24/2017"
+    },
+    {
+      "date": "4/07/2017"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "deckType": "hearthstone",
+  "cards": [
+    {
+      "name": "Bloodfen Raptor",
+      "mana": 2,
+      "attack": 3,
+      "health": 2,
+      "tribe": "Beast",
+      "text": "",
+      "image": "https://hearthstone.gamepedia.com/media/hearthstone.gamepedia.com/thumb/8/83/Bloodfen_Raptor_full.jpg/420px-Bloodfen_Raptor_full.jpg?version=175d2228cfb8d7a45b931933d391466a"
+    }
+  ]
+}

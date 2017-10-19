@@ -1,0 +1,75 @@
+/* BOARD */
+
+html, body {
+    height: 100%;
+    overflow: hidden;
+}
+
+#game {
+    width: 95%;
+    margin: 0 auto;
+    background: white;
+    padding: 10px 15px;
+    height: 100%;
+}
+
+#opponentCards, #playerCards {
+    height: 25%;
+}
+
+#board {
+    border: 1px solid black;
+    height: 50%;
+}
+
+#playerBoard, #opponentBoard {
+    height: 50%;
+    text-align: center;
+}
+
+/* CARDS */
+
+#hand {
+    width: 90%;
+    height: 100%;
+    float: left;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#deck {
+    float: right;
+    height: 100%;
+}
+
+#cardback {
+    height: 75%;
+    width: 100px;
+    margin-top: 10%;
+    border: 1px solid black;
+    padding: 5px;
+    float: right;
+    background: darkred;
+    cursor: pointer;
+}
+
+.card {
+    height: 75%;
+    width: 100px;
+    padding: 5px;
+    margin-right: 5px;
+    margin-top: 1%;
+    border: 1px solid black;
+    display: inline-block;
+    background: white;
+    cursor: pointer;
+    text-align: left;
+}
+
+.card p {
+    margin: 0px;
+}
+
+.played {
+    cursor: default!important;
+}
